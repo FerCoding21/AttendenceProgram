@@ -1,0 +1,97 @@
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Login Funcional.exe.config
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Login Funcional.exe
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Login Funcional.pdb
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Login Funcional.xml
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\EnvDTE.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\stdole.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\Microsoft.MSXML.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.vbproj.AssemblyReference.cache
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.vbproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormActAsistencia.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormAdmin.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormConsulEst.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormDataGridEst.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormElimEst.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormEstudiantes.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormRegisEst.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormActEst.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormElimAsistencia.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormConsulAsistencia.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormRegisAsistecia.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.Form1.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormDataGridProf.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormElimProf.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormActProf.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormConsulProf.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormProfesores.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormRegisProfesores.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormActUsuario.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormConsulUsuario.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormDataGridUsuario.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormElimUsuario.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormRegisUsuario.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormUsuarios.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormInicio.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormMain.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormRecContraseña.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormCambContraseña.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormEditUser.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.FormReporteAsis.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login_Funcional.Resources.resources
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.vbproj.GenerateResource.cache
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.vbproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.vbproj.CopyComplete
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.exe
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.xml
+C:\Users\XPC\source\repos\Login Funcional\Login Funcional\obj\Debug\Login Funcional.pdb
